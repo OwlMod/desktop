@@ -1,6 +1,6 @@
-# TurboWarp Desktop
+# OwlMod Desktop
 
-TurboWarp as a desktop app.
+OwlMod is main at the moment editor, based on TurboWarp!
 
 If you're looking for downloads, head to: https://desktop.turbowarp.org/
 
